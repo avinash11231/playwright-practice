@@ -1,4 +1,5 @@
 # Playwright Practice Framework
+[![Playwright Tests](https://github.com/avinash11231/playwright-practice/actions/workflows/playwright.yml/badge.svg)](https://github.com/avinash11231/playwright-practice/actions/workflows/playwright.yml)
 
 A TypeScript Playwright automation framework built for upskilling,
 covering UI, API, and hybrid testing patterns.
